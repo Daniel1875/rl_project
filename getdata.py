@@ -29,7 +29,7 @@ START = "2019-01-01"
 END   = "2019-08-31"
 
 OUTPUT_DIR = "data"
-API_KEY    = "db-xb9GUuiDGPytLk3Et9Xt43LAACU6A"
+API_KEY    = ""
 
 LEVEL_COLS = [
     col
